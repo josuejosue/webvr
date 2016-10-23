@@ -1,2 +1,2 @@
 # webvr
-a frame webvr build
+a-frame webvr build version 1
